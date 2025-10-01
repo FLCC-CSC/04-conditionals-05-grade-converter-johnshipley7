@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: john shipley
+# DATE: 10/1/2025
+# BRIEF DESCRIPTION:  grade converter
 
 
 
